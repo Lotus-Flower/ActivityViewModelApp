@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActivityViewModelApp</string>
+
+    //Button
+    <string name="new_fact">Get a new cat fact</string>
+    <string name="show_error">Show error</string>
+
+    //Error
+    <string name="error_header">Error</string>
+    <string name="error_format">%s: %s</string>
+    <string name="test_error_body">This is a Test Error Body</string>
+</resources>
